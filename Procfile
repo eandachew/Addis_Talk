@@ -1,0 +1,1 @@
+web: gunicorn Addis_Talk.wsgi
